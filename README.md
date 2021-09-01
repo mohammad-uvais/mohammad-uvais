@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on Web Development related Projects
-- 📫 How to reach me : 9811050240
+- 📫 How to reach me : +91 98110 50240
 
 <!---
 mohammad-uvais/mohammad-uvais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
