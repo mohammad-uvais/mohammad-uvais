@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammad-uvais
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JS, React, jQuery, Bootstrap and SASS etc.
 - 💞️ I’m looking to collaborate on Web Development related Projects
 - 📫 How to reach me : +91 98110 50240
 
