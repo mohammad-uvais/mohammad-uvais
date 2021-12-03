@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammad-uvais
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS, React, jQuery etc.
+- 🌱 I’m currently working with JavaScript, React, React Native, Redux etc.
 - 💞️ I’m looking to collaborate on Web Development related Projects
 - 📫 How to reach me : uvaismansoori@gmail.com
 
